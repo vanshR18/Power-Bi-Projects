@@ -13,4 +13,9 @@ Welcome to my Power BI portfolio! This repository is a collection of end-to-end 
 - **Tools:** Power BI, DAX, Power Query, CSV.
 - **📁 [View Project Details](./001-hr-attrition-dashboard)**
 
-### 2. 
+### 2. Blinkit Grocery Sales Analysis Dashboard
+**Focus:** Retail Operations & Sales Performance
+- **Objective:** Conduct a comprehensive analysis of sales, customer satisfaction, and inventory distribution to identify growth opportunities.
+- **Key Insights:** Achieved $1.20M in total sales, identifying Tier 3 outlets as the highest revenue contributors ($472K) and Low Fat products as a key consumer preference.
+- **Tools:** Power BI, DAX, Data Modeling, Excel.
+- **📁 [View Project Details](./002_Blinkit-Grocery-Sales-Analysis)**
