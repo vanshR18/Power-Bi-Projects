@@ -37,7 +37,7 @@ This project features a comprehensive **HR Analytics Dashboard** built in Power 
 - **Power BI** (Visualization & Reporting)
 - **DAX** (Calculated measures for Attrition % and Avg Tenure)
 - **Power Query** (Data cleaning and conditional column creation)
-- **Microsoft Excel** (Data Source)
+- **CSV** (Flat file data source)
 
 ---
 
