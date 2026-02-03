@@ -82,3 +82,6 @@ Feel free to reach out on **LinkedIn** for any discussions or feedback!
 
 ## 🔖 Tags
 Power BI | HR Analytics | People Analytics | Data Visualization | DAX | Employee Retention
+
+---
+*Developed by Rohit Pal*
