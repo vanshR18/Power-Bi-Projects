@@ -53,3 +53,33 @@ The dashboard utilizes various visual formats to uncover deep business insights:
     ├── Blinkit_Grocery_Sales_Report.pdf      # Static PDF Export
     ├── Blinkit_Grocery_Sales_Template.pbit   # Power BI Template
     └── Readme.md                             # Documentation
+```
+---
+
+## 🚀 How to Use
+1. **Download** the `.pbix` file from the `Reports/` folder.
+2. **Open** in **Power BI Desktop**.
+3. Use the **Filter Panel** (Outlet Location, Size, and Item Type) to filter data for specific business units.
+4. **Hover over data points** to see detailed tooltips on specific sales metrics and ratings.
+
+---
+
+## ✅ Outcomes
+The Blinkit Dashboard serves as a valuable tool for data-driven decision-making. It empowers stakeholders to:
+* Identify sales trends and growth opportunities.
+* Improve inventory distribution across outlets.
+* Tailor strategies to enhance customer satisfaction.
+
+---
+
+## 📬 Feedback & Contact
+I am passionate about Data Science, Data Analytics, and Visualization.  
+Feel free to reach out on **LinkedIn** for any discussions or feedback!
+
+---
+
+## 🔖 Tags
+Power BI | Retail Analytics | Sales Dashboard | Data Visualization | DAX | Business Intelligence | Employee Retention
+
+---
+*Developed by Rohit Pal*
