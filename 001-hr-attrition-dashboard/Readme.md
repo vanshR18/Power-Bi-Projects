@@ -57,9 +57,12 @@ This project features a comprehensive **HR Analytics Dashboard** built in Power 
 
 ---
 
-## 📂 Project Files
-- **Hr_Dashboard_Snapshot.png** – High-resolution dashboard preview.
-- **HR_Attrition_Analysis.pbix** – Power BI source file.
+## 📂📂 Project Files
+- **HR_Attrition_Analysis.pbix** – Main Power BI report with data.
+- **HR_Attrition_Dashboard.pbit** – Power BI Template file (without data for easy distribution).
+- **HR_Analytics.csv** – Raw dataset used for analysis.
+- **Hr_Dashboard.pdf** - Static export of the dashboard for quick viewing.
+- **Hr_Dashboard_Snapshot.png** – Dashboard preview image.
 
 ---
 
