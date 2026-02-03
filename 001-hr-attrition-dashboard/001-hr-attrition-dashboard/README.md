@@ -43,3 +43,4 @@ The **.pbit** file is a "blueprint" or a skeleton of your report.
 ## 🚀 How to use these in this project:
 1. **Use the .pbix** if you want to see the **HR Analytics** results immediately with the pre-loaded data.
 2. **Use the .pbit** if you want to apply this specific **HR Dashboard layout** to your own custom dataset (ensuring your CSV columns match the original structure).
+
