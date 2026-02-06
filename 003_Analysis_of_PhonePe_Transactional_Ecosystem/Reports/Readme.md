@@ -6,7 +6,7 @@ This folder is intended to store the project's analytical outputs. Due to the fi
 
 ## 🔗 Interactive Dashboard Link
 You can access and interact with the full **PhonePe Pulse Analysis** dashboard here:
-👉 **[Click Here to View the Power BI Report on Google Drive](https://drive.google.com/drive/folders/1pY0XDi_sdMFQSoHumRb3z6PBhJjle-Zd?usp=sharing)**
+👉 **[Click Here to View the Power BI Report on Google Drive](https://drive.google.com/drive/folders/1NIFnFkaidCrZ0idvmi1FVui15Ykvm7zf?usp=sharing)**
 
 ---
 
