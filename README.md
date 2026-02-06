@@ -19,3 +19,10 @@ Welcome to my Power BI portfolio! This repository is a collection of end-to-end 
 - **Key Insights:** Achieved $1.20M in total sales, identifying Tier 3 outlets as the highest revenue contributors ($472K) and Low Fat products as a key consumer preference.
 - **Tools:** Power BI, DAX, Data Modeling, Excel.
 - **📁 [View Project Details](./002_Blinkit-Grocery-Sales-Analysis)**
+
+### 3. PhonePe Pulse Data Analysis Dashboard 
+**Focus:** Fintech Analytics & Transaction Trends
+- **Objective:** Analyze transaction patterns, user demographics, and payment success metrics to identify technical bottlenecks and growth opportunities.
+- **Key Insights:** Processed **₹3,474M in total volume** and identified that **Server Errors (33.76%)** and **Wrong PINs (27.61%)** are the primary drivers of transaction failures.
+- **Tools:** Power BI, DAX, Data Modeling, Excel.
+- **📁 [View Project Details](./003_PhonePe-Pulse-Analysis)**
