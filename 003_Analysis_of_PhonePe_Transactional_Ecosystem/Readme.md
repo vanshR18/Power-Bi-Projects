@@ -47,28 +47,43 @@ The dashboard consists of multiple pages focusing on different business units:
 * **DAX (Data Analysis Expressions):** For calculating complex measures like transaction success rates and average user age.
 
 ---
+## 📂 Project Structure
+```text
+003_PhonePe-Pulse-Analysis/
+├── Data/
+│   ├── PhonePe_Transaction_Data.xlsx         # Raw Dataset
+│   └── PhonePe_Analysis_Problem_Statement.pdf # Problem Statement
+└── Reports/
+    ├── PhonePe_Analysis_Report.pbix          # Power BI Report
+    ├── PhonePe_Analysis_Report.pdf           # Static PDF Export
+    └── Readme.md
+---
+---
 
 ## 🚀 How to Use
-1. **Download** the `PhonePe_Dashboard.pbix` file.
-2. **Open** it in **Power BI Desktop**.
-3. [cite_start]**Interact:** Use the **Date Range Slicers** at the top to filter data for specific timeframes[cite: 405, 481, 539].
-4. [cite_start]**Navigate:** Use the side icons (Insurance, Loans, Money Tran, etc.) to switch between different service dashboards[cite: 412, 418, 419, 421].
+1. **Download** the `.pbix` file from the `Reports/` folder.
+2. **Open** in **Power BI Desktop**.
+3. **Use the Date Range Slicers** at the top to filter data for specific months or quarters.
+4. **Navigate** through the side icons to switch between **Insurance, Loans, and Money Transfer** views for deeper analysis.
 
 ---
 
 ## ✅ Outcomes
-This project empowers stakeholders to:
-* Optimize system performance by addressing the top reasons for payment failure.
-* Tailor marketing strategies based on the identified core user age demographics.
-* Monitor service-specific growth to prioritize business resources.
+The PhonePe Dashboard serves as a valuable tool for data-driven decision-making. It empowers stakeholders to:
+* **Identify technical failure points:** pinpoints specific issues like Server Errors to improve platform stability.
+* **Optimize marketing strategies:** targets the core 20–50 age demographic which forms the bulk of the user base.
+* **Monitor high-volume services:** tracks the growth of UPI ID and Mobile Number transfers to prioritize feature updates.
 
 ---
 
 ## 📬 Feedback & Contact
-I am a Data Enthusiast specializing in turning complex datasets into visual stories.  
+I am passionate about Data Science, Data Analytics, and Visualization.  
 Feel free to reach out on **LinkedIn** for any discussions or feedback!
 
 ---
 
 ## 🔖 Tags
-Power BI | Fintech Analytics | Data Visualization | DAX | Payment Gateway Analysis | Business Intelligence
+Power BI | Fintech Analytics | Transaction Dashboard | Data Visualization | DAX | Business Intelligence
+
+---
+*Developed by Rohit Pal*
