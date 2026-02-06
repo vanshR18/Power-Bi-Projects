@@ -1,44 +1,61 @@
-# 📱 PhonePe Pulse Data Analysis Dashboard
+# 📱 PhonePe Data Analysis Dashboard
 
 ## 📌 Introduction
 This project provides a comprehensive data-driven analysis of **PhonePe** transaction trends, user demographics, and payment success metrics for the year 2024. The dashboard is designed to help stakeholders visualize transaction volumes, identify common payment failure points, and understand user behavior across various financial services.
 
 ---
 
-## 🎯 Business Objectives
-The primary goal of this dashboard is to provide actionable insights into the digital payment ecosystem:
-* **Transaction Monitoring:** Track total successful vs. failed transactions and overall revenue.
-* [cite_start]**Service Performance:** Analyze the performance of different segments such as Loans, Insurance, Money Transfers, and Bill Recharges[cite: 422].
-* [cite_start]**Failure Analysis:** Identify the root causes of transaction failures to improve payment success rates[cite: 450, 453].
-* [cite_start]**User Demographics:** Understand the age distribution and growth of the user base[cite: 488, 493].
+## 🎯 Business Requirement & Objectives
+The primary objective of this dashboard is to provide a detailed analysis of the PhonePe ecosystem to identify transaction patterns and technical bottlenecks.
+
+* **Transaction Monitoring:** Track total successful vs. failed transactions and overall revenue volumes.
+* **Service Performance:** Analyze the efficiency of different segments like Loans, Insurance, and Bill Recharges.
+* **Failure Analysis:** Identify root causes of transaction failures to suggest improvements for payment success rates.
+* **User Demographics:** Explore user age distribution and acquisition trends.
 
 ---
 
-## 📈 Key Metrics (KPIs)
-* [cite_start]**Total Amount Processed:** ₹3,474M [cite: 413, 414]
-* [cite_start]**Total Transactions:** 300K [cite: 415]
-* [cite_start]**Total Successful Transactions:** 3,333M [cite: 409, 410]
-* [cite_start]**Total Failed Transactions:** 141M [cite: 407, 408]
-* [cite_start]**Average User Age:** 39 years [cite: 489, 493]
+## 📈 Key Performance Indicators (KPIs)
+* **Total Amount:** ₹3,474M — The overall value processed across the platform.
+* **Total Transactions:** 300K — The total count of transaction attempts.
+* **Successful Transactions:** 3,333M — Total count of completed payments.
+* **Failed Transactions:** 141M — Total count of unsuccessful payments.
+* **Average User Age:** 39 Years — The mean age of the active user base.
+
+---
+
+## 📊 Dashboard Structure
+The Power BI dashboard consists of **five interactive pages**:
+
+1. **🏠 Home Page – Overall Summary**
+   * High-level overview of total transactions, amounts, and failed payments.
+   * Date range slicers for global filtering across the report.
+
+2. **❌ Failed Transactions Analysis**
+   * Detailed breakdown of failed transactions and their root causes (e.g., server error, wrong PIN).
+   * Trend analysis showing how failures fluctuate by month.
+
+3. **🛡️ Insurance Dashboard**
+   * Analysis specifically for Bike, Car, Health, and Term Life insurance categories.
+   * Successful vs. failed payment comparison within the insurance sector.
+
+4. **💰 Loan Dashboard**
+   * Tracking loan transaction trends and payment status comparisons.
+   * Reusable design structure for consistent reporting across different loan types.
+
+5. **💳 Recharges, Bills & Money Transfers**
+   * Detailed analysis of Mobile Recharges, Electricity, and DTH payments.
+   * Money transfer performance via UPI ID, QR Code, and Mobile Number.
 
 ---
 
 ## 📊 Visualizations & Insights
-The dashboard consists of multiple pages focusing on different business units:
+* **Failed Payment Reasons:** **Server Errors (33.76%)** and **Wrong PINs (27.61%)** are the leading causes of failures.
+* **Monthly Trends:** Monthly revenue reached a significant high of **₹13.70M in July**.
+* **Demographics:** The majority of the user base is concentrated between **ages 20 and 50**.
+* **Service Breakdown:** Loans represent the largest segment by amount (**₹2.5bn**), followed by Insurance (**₹0.5bn**).
 
-1. **Overall Performance:**
-   * [cite_start]**Date vs. Amount:** A line chart showing monthly revenue peaks, with a significant high in July (₹13.70M)[cite: 456, 457, 464].
-   * [cite_start]**Failed Payment Reasons:** A pie chart highlighting that **Server Errors (33.76%)** and **Wrong PINs (27.61%)** are the leading causes of failed transactions[cite: 450, 452, 454, 466, 468].
-
-2. **User Insights:**
-   * [cite_start]**User Joined by Month:** Tracking new user acquisition trends throughout the year[cite: 487].
-   * [cite_start]**User vs. Age:** Bar chart showing the majority of the user base is concentrated between ages 20 and 50[cite: 488, 490, 491, 492].
-
-3. **Service Breakdown:**
-   * [cite_start]**Insurance & Loans:** Detailed analysis of total transactions and failed amounts for specific categories like Bike, Car, and Health insurance[cite: 545, 546, 550, 555].
-   * [cite_start]**Money Transfers:** Performance metrics for UPI ID, QR Code, and Mobile Number transfers[cite: 689, 697, 700].
-   * [cite_start]**Recharges & Bills:** Analysis of Mobile Recharges, Electricity, DTH, and Cable TV payments[cite: 758, 764, 776, 780].
-
+---
 ---
 
 ## 🛠️ Technologies Used
@@ -58,7 +75,7 @@ The dashboard consists of multiple pages focusing on different business units:
     ├── PhonePe_Analysis_Report.pdf           # Static PDF Export
     └── Readme.md
 ```
----
+
 ---
 
 ## 🚀 How to Use
