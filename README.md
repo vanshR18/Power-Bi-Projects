@@ -25,4 +25,4 @@ Welcome to my Power BI portfolio! This repository is a collection of end-to-end 
 - **Objective:** Analyze transaction patterns, user demographics, and payment success metrics to identify technical bottlenecks and growth opportunities.
 - **Key Insights:** Processed **₹3,474M in total volume** and identified that **Server Errors (33.76%)** and **Wrong PINs (27.61%)** are the primary drivers of transaction failures.
 - **Tools:** Power BI, DAX, Data Modeling, Excel.
-- **📁 [View Project Details](./003_PhonePe-Pulse-Analysis)**
+- **📁 [View Project Details](./003_Analysis_of_PhonePe_Transactional_Ecosystem)**
