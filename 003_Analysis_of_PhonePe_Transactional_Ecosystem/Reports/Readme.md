@@ -33,5 +33,4 @@ To open the `.pbix` file from the link above, you will need:
 * **Power BI Desktop** (Latest Version)
 * An active internet connection (if the data is linked to cloud sources)
 
----
-*Developed by Rohit Pal*
+
